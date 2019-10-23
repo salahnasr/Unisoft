@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/Icones">
+        <file>Ressources/url.png</file>
+        <file>Ressources/Teachers-icon.png</file>
+        <file>Ressources/settings-icon.png</file>
+        <file>Ressources/Project-icon.png</file>
+        <file>Ressources/Network-Statistics-icon.png</file>
+        <file>Ressources/Money-icon.png</file>
+        <file>Ressources/graduated-icon.png</file>
+        <file>Ressources/Unisoft.png</file>
+        <file>Ressources/logo.png</file>
+        <file>Ressources/Picture.png</file>
+        <file>Ressources/Folder.png</file>
+        <file>Ressources/Document.png</file>
+        <file>Ressources/User.png</file>
+        <file>Ressources/Camera.png</file>
+        <file>Ressources/Tag.png</file>
+        <file>Ressources/Shopping.png</file>
+        <file>Ressources/Twitter.png</file>
+        <file>Ressources/Search.png</file>
+        <file>Ressources/Home.png</file>
+        <file>Ressources/Mail3.png</file>
+        <file>Ressources/Printer.png</file>
+        <file>Ressources/Map.png</file>
+        <file>Ressources/Settings.png</file>
+        <file>Ressources/Calendar.png</file>
+        <file>Ressources/Tools.png</file>
+        <file>Ressources/Music.png</file>
+        <file>Ressources/Bookmark.png</file>
+        <file>Ressources/Trophy.png</file>
+        <file>Ressources/Compass.png</file>
+        <file>Ressources/Dashboard.png</file>
+        <file>Ressources/Chart.png</file>
+        <file>Ressources/Lock.png</file>
+        <file>Ressources/Cloud.png</file>
+        <file>Ressources/Database.png</file>
+        <file>Ressources/Gift.png</file>
+        <file>Ressources/Thumb_Up.png</file>
+        <file>Ressources/T-Shirt.png</file>
+        <file>Ressources/Comment.png</file>
+        <file>Ressources/Download.png</file>
+        <file>Ressources/Logo_ESPRIT_-_Tunisie copy.png</file>
+        <file>Ressources/800px-Hungary_vital_stat.png</file>
+        <file>Ressources/Untitled.png</file>
+        <file>Ressources/separateur.png</file>
+        <file>Ressources/128_Teacher-1.png</file>
+        <file>Ressources/post-office-logo-a.png</file>
+        <file>Ressources/Test-paper-512.png</file>
+        <file>Ressources/Timetable-icon-512x512.png</file>
+        <file>Ressources/user_search.png</file>
+        <file>Ressources/user_add.png</file>
+        <file>Ressources/business_user_delete.png</file>
+        <file>Ressources/Quit.png</file>
+        <file>Ressources/logout.png</file>
+        <file>Ressources/reload_refresh.000.png</file>
+        <file>Ressources/exit.png</file>
+        <file>Ressources/save-23.png</file>
+        <file>Ressources/edit-notes.png</file>
+        <file>Ressources/add-notes.png</file>
+        <file>Ressources/delete.png</file>
+        <file>Ressources/legende.jpg</file>
+    </qresource>
+    <qresource prefix="/Ressources"/>
+</RCC>

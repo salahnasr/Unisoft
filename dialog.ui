@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>643</width>
+    <height>479</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 255, 255);</string>
+  </property>
+  <property name="sizeGripEnabled">
+   <bool>false</bool>
+  </property>
+  <property name="modal">
+   <bool>true</bool>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QTableWidget" name="tableWidget">
+     <property name="textElideMode">
+      <enum>Qt::ElideMiddle</enum>
+     </property>
+     <property name="gridStyle">
+      <enum>Qt::SolidLine</enum>
+     </property>
+     <property name="sortingEnabled">
+      <bool>false</bool>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
+     </property>
+     <row>
+      <property name="text">
+       <string>Lundi</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>mardi</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>mercredi</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>jeudi</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>vendredi</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>samedi</string>
+      </property>
+     </row>
+     <column>
+      <property name="text">
+       <string>9</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>10:30</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>10:45</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>12:15</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>14</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>15:30</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>15:45</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>17:15</string>
+      </property>
+     </column>
+     <item row="0" column="0">
+      <property name="text">
+       <string>qsdqqqqqqqqqqqqqqqqqqqqqqqqqqqq</string>
+      </property>
+     </item>
+     <item row="1" column="0">
+      <property name="text">
+       <string>englais</string>
+      </property>
+     </item>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
